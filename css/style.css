@@ -3,3 +3,20 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+main {
+    background-image: url(https://www.google.it/url?sa=i&url=https%3A%2F%2Fwww.westlionsroar.com%2Ffeatures%2F2021%2F03%2F25%2Fnewly-granted-patent-allows-spotify-to-listen-to-your-voice-and-background-noise%2F&psig=AOvVaw01ezuoKPq2RRcjQHaw9R4X&ust=1719071475114000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCICh276G7YYDFQAAAAAdAAAAABAE);
+    background-size: 100%;
+}
+
+.col-4 img {
+    width: 100%;
+}
+
+.green-bg {
+    background-color: #1ED760;
+}
+
+.green-color {
+    color: #1ED760;
+}
